@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practica-libreria/static/css/main.073c9b0a.css",
+    "main.js": "/practica-libreria/static/js/main.e2678bc8.js",
+    "static/js/787.e31ccd3e.chunk.js": "/practica-libreria/static/js/787.e31ccd3e.chunk.js",
+    "index.html": "/practica-libreria/index.html",
+    "main.073c9b0a.css.map": "/practica-libreria/static/css/main.073c9b0a.css.map",
+    "main.e2678bc8.js.map": "/practica-libreria/static/js/main.e2678bc8.js.map",
+    "787.e31ccd3e.chunk.js.map": "/practica-libreria/static/js/787.e31ccd3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e2678bc8.js"
+  ]
+}
